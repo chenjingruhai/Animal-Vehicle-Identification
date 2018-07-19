@@ -1,4 +1,4 @@
-By using **Deep Learning** and more specifically, **SSD** (Single Shot Multibox Detection), you can easily train your computer to identify objects like dogs, cats, people, etc. This proect took me 1 day to complete and is part of the *Computer A-Z* on Udemy.
+By using **Deep Learning** and more specifically, **SSD** (Single Shot Multibox Detection), you can easily train your computer to identify objects like dogs, cats, people, etc. This proect takes 1 day and is part of the *Computer A-Z* Udemy Course.
 
 ![a single frame from a video of my dog](lucy2.png)
 
