@@ -1,4 +1,4 @@
-DO THE BELOW FOR ANY PIC/VIDEO
+By using *Deep Learning* and more specifically, *SSD* (Single Shot Multibox Detection), you can quickly train your computer to identify objects like dogs, cats, people, etc.
 
 ![a single frame from a video of my dog](lucy2.png)
 
