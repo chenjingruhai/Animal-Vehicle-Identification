@@ -7,10 +7,11 @@ In actuality, my program adds visual-graphics to videos, like in the above image
 It's a **4 step-process:**
 
 1. **read input video:** taking each individual frame
-2. **for each frame**:
-  -get TL & BR coordinates of detected object(s)
-  -draw a box around the detection(s) & label it
-3. **String** the edited frames together into an output video
+2. **for each frame**{
+  -draw a box around the detection(s) 
+  -label it
+  }
+3. String the edited frames together & "Voila!", you have your output video with cool rectangles & labels
 
 ## Next Steps
 As a videography hobbyist, using these graphics would create a cool "tech" vibe.
